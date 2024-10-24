@@ -18,8 +18,8 @@ Don't stress with cable, update wirelessly!
 ### HEALTH
 You can check your BPM And SpO2!
 In the future (if possible) we will add Glucose support
-### APP STORE (future)
-In the future, you can **DOWNLOAD** apps from the OS it self!
+### CAMERA SUPPORT (future)
+In the future, you can take **PICTURE** and **VIDEOS!**
 ### MUSIC
 You can listen to music with speakers or use the 3.5mm jack
 
