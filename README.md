@@ -29,4 +29,5 @@ You can listen to music with speakers or use the 3.5mm jack.
 Pictures as soon as the OS is done and avalible.
 ### COMING SOON
 ***AVALIBLE ON NOVEMBER**
-*It may be avalible after November
+
+*It may be avalible in a later date
