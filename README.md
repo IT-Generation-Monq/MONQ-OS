@@ -1,7 +1,7 @@
 ![MONQ OS](https://i.imgur.com/xmlqbjT.png)
 ### THE OS THAT SIMPLIFES YOUR LIVE
 
-MONQ OS is an **OS** made in **LVGL** an **C++**, with apps that you find on your phone daily.
+MONQ OS is an OS made in **LVGL** and **C++**, with apps that you find on your phone daily.
 
 ### WHAT DOES IT HAVE?
 It has apps like:
