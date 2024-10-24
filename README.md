@@ -25,7 +25,7 @@ You can listen to music with speakers or use the 3.5mm jack
 
 ### SYSTEM REQUIREMENTS
 - ESP32 S3 (with 16MB Flash and 8MB PSRAM for best performance)
-- 320x480 Display (Use LovyanGFX for best performance
+- 320x480 Display (Use LovyanGFX for best performance)
 - MAX30105
 - PCM5102A
 - Battery (Optional)
